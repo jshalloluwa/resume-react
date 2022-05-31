@@ -1,0 +1,27 @@
+.footer{
+    background-color: #1e1e1e;
+    border-radius: 8px;
+    min-height: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 25px;
+    margin-bottom: 30px;
+}
+
+.footer .footer_right .MuiSvgIcon-root{
+    color: white;
+    font-size: 18px;
+    margin-right: 12px;
+}
+
+.footer .footer_copyright{
+    color: #9c9c9c;
+    font-size: small;
+}
+
+.footer .footer_copyright a{
+    color: white;
+    text-decoration: none;
+}
