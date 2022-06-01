@@ -1,3 +1,7 @@
+# Responsive resume
+
+![Resume](https://user-images.githubusercontent.com/68233906/171350201-6a5c0059-6980-47a0-84b7-3b8f03d75ec8.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
