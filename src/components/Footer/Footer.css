@@ -6,8 +6,7 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    padding: 0 25px;
-    margin-bottom: 30px;
+    padding: 10px 25px;
 }
 
 .footer .footer_right .MuiSvgIcon-root{

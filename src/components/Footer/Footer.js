@@ -6,7 +6,7 @@ import "./Footer.css";
 
 function Footer(props) {
   return (
-    <div className="footer">
+    <div className="footer mb_30">
       <div className="footer_left">
         <Typography className="footer_copyright">
           Designed and Developed by <a href="/">{Data.profile_info.Name}</a>.

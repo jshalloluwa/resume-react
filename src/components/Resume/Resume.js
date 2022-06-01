@@ -91,7 +91,7 @@ function Resume() {
         <Grid item xs={12}>
           <Grid container spacing={3} className="pb_45">
             {Data.skills.map((skill, index) => (
-              <Grid item sm={6} md={4} key={index}>
+              <Grid item xs={12} sm={6} md={4} key={index} className="mb_30">
                 <Paper variant="outlined" className="skill">
                   <Typography variant="h6" className="skills_title">
                     {skill.title}

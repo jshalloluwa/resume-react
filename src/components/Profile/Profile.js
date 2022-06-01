@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "../../assets/profile.jpg";
+import Image from "../../assets/about.jpg";
 import CustomTimeline, { CustomTimelineSeparator } from "../Timeline/Timeline";
 import Data from "../../utils/Data";
 import CustomButton from "../Button/Button";
