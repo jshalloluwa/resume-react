@@ -1,6 +1,6 @@
 # Responsive resume
 
-![Jayoda Halloluwa _ Resume](https://user-images.githubusercontent.com/68233906/171401428-6cfd0f29-e5cb-4752-97bb-5a575f850354.jpg)
+![Jayoda Halloluwa _ Resume_page-0001](https://user-images.githubusercontent.com/68233906/172143037-4dc91807-a8e3-45fb-b197-584d60e10561.jpg)
 
 # Getting Started with Create React App
 
